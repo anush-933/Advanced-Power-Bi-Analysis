@@ -12,5 +12,10 @@
 4️⃣ Product Toolkit: Hidden and Synced with Product page's visual cards for seamless analysis.
 
 
-Uploading AmazonAnalysisDemo.mp4…
+<img width="607" alt="thumbnai" src="https://github.com/anush-933/Advanced-Power-Bi-Analysis/assets/82230179/e9306989-d9d7-44ce-8e15-a02d29f29a98">
+
+
+<img width="651" alt="Screenshot 2024-01-01 115003" src="https://github.com/anush-933/Advanced-Power-Bi-Analysis/assets/82230179/80463103-8130-48ac-81ea-96e56c2e4db0">
+
+<img width="652" alt="Screenshot 2024-01-01 115151" src="https://github.com/anush-933/Advanced-Power-Bi-Analysis/assets/82230179/2e825651-f6d9-4b67-ba0a-c48654e544e1">
 
