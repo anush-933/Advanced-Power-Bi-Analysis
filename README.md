@@ -10,3 +10,7 @@
 3️⃣ Product View: Detailed breakdowns per product—sales, dynamic periods, reviews, returns, and losses.
 
 4️⃣ Product Toolkit: Hidden and Synced with Product page's visual cards for seamless analysis.
+
+
+Uploading AmazonAnalysisDemo.mp4…
+
